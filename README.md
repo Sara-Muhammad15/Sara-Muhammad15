@@ -1,65 +1,84 @@
-🌸 Hey there! I'm Sara Muhammad 👩‍💻✨
+🌸✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨🌸  
+✨            Welcome to My Coding World      ✨  
+🌸✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨🌸  
 
-💡 Future Web & App Developer
-🚀 Learning • Building • Improving Every Day
+# 💖 Hi, I'm Sara Muhammad 💻🌷  
 
-🌈 About Me
+🎀 **Aspiring Web & App Developer**  
+🌱 Learning with passion | Growing with consistency  
+🚀 Turning dreams into code, one line at a time  
 
-🎓 Completed 12th Grade in Commerce
-💻 Currently studying IT – Web & App Development
-🎨 Skilled in HTML & CSS
-⚡ Learning JavaScript (In Progress)
-🛠️ Love building small projects & experimenting with code
-🌱 Believe in growth, consistency, and learning by doing
+---
 
-“Every expert was once a beginner — and I’m proudly on my way.”
+## 🌸 About Me  
 
-🧠 Tech Stack
-💻 Frontend Skills
+✨ Completed **12th Grade (Commerce)**  
+💻 Currently studying **IT – Web & App Development**  
+🎨 Finished **HTML & CSS**  
+⚡ Learning **JavaScript (In Progress)**  
+🛠️ Building small projects to sharpen my skills  
+💖 I believe *girls can code magic too* ✨  
 
+> 🌷 *“I’m not behind — I’m just getting started.”*
 
+---
 
+## 🧁 My Tech Stack  
 
-📘 Currently Learning
+### 🎀 Frontend Magic  
+🩷 HTML5  
+🩵 CSS3  
+🎨 Responsive Design  
 
-🛠️ What I’m Working On
+### 🌙 Learning Right Now  
+💛 JavaScript  
+🧠 Logic Building  
+⚙️ DOM Basics  
 
-🚧 Beginner-friendly projects using:
+---
 
-HTML
+## 🧚‍♀️ What I’m Creating  
 
-CSS
+🧩 Beginner-friendly projects  
+🌸 Clean & cute UI designs  
+🚀 Practice projects with real learning value  
 
-JavaScript
+📌 *More projects loading… please wait ✨*
 
-✨ Improving:
+---
 
-Logic building
+## 🎯 Dream Goals  
 
-Clean code
+🌈 Become a **Professional Web & App Developer**  
+📱 Build real apps & websites  
+🧠 Master JavaScript  
+💼 Create projects I’m proud of  
+💖 Inspire other girls to enter tech  
 
-Responsive design
+---
 
-📌 New projects coming soon — stay tuned!
+## 📊 My GitHub Energy  
 
-🎯 My Goals
+🌟 Watch my progress grow 🌟  
 
-🌟 Become a Professional Web & App Developer
-🌟 Build real-world, useful projects
-🌟 Master JavaScript
-🌟 Learn frameworks & app development
-🌟 Create beautiful, user-friendly applications
+![Sara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sara-Muhammad15&show_icons=true&theme=rose_pine)
 
-📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-Muhammad15&layout=compact&theme=rose_pine)
 
-🌟 Fun Facts About Me
+---
 
-✨ I enjoy learning new tech skills
-🎨 I love clean & aesthetic designs
-💻 Coding makes me feel powerful
-🚀 I’m serious about becoming a developer
+## 🌷 Fun Little Facts  
 
-💖 Thank You for Visiting
+🦋 I love aesthetic designs  
+🎀 I enjoy learning new tech skills  
+✨ Coding makes me feel confident  
+🌸 I’m building my future with patience  
 
-⭐ If you like my journey, feel free to follow
-📌 Watch this space — amazing things are coming
+---
+
+## 💌 Thank You for Visiting  
+
+🌟 If you believe in growth, creativity & consistency — welcome!  
+🌸 Follow my journey as I bloom into a developer  
+
+✨ *Magic is loading… keep watching* ✨  
